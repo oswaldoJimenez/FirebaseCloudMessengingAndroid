@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507649354079",
+    "project_id": "proyectofirebase-c8858",
+    "storage_bucket": "proyectofirebase-c8858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507649354079:android:ba7257eeaf0e7a1e856eea",
+        "android_client_info": {
+          "package_name": "net.ivanvega.firebasecloudmessengingandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507649354079-numa19sbcrim7v7rciottg3fttbn39ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLgioptFBwgS1u5w4wTxxxLnNAXRRmWe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507649354079-numa19sbcrim7v7rciottg3fttbn39ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
